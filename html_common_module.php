@@ -1,6 +1,6 @@
 <?php
 
-namespace php_number_link_generator\modules;
+namespace common_modules;
 
 function space_br($html, $num): string
 {
